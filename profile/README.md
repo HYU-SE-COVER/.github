@@ -1,7 +1,6 @@
 # COVER
 > From Past to Present:
-Harnessing Matter to Integrate Legacy Devices
-into the Next-Gen Smart Home Ecosystem
+> Harnessing Matter to Integrate Legacy Devices into the Next-Gen Smart Home Ecosystem
 
 ## Introduction
 
