@@ -2,10 +2,12 @@
 > **From Past to Present:**
 > 
 > Harnessing Matter to Integrate Legacy Devices into the Next-Gen Smart Home Ecosystem
->
+
 > 스마트 홈의 미래, LG Cover.
-레거시 기기부터 최신 IoT까지, 모든 것을 하나의 플랫폼에서.
-다양한 브랜드와 기술의 스마트 기기들을 한 눈에, 한 손에 관리하세요.
+> 
+> 레거시 기기부터 최신 IoT까지, 모든 것을 하나의 플랫폼에서.
+> 
+> 다양한 브랜드와 기술의 스마트 기기들을 한 눈에, 한 손에 관리하세요.
 
 ## Introduction
 
