@@ -15,7 +15,7 @@ LG Cover는 원활한 통합을 위해 ThinQ 앱과 Matter API 장치에 허브 
 
 ## Members
 
-- **Kim Jina**, Dept. of Information System, drjina02@gmail.com
-- **Kwon Kitae**, Dept. of Information System, jrinonamu@gmail.com
-- **Song Woojung**, Dept. of Information System, opusdeisong@gmail.com
-- **Yeo Dakyum**, Dept. of Information System, yeodakyum@gmail.com
+- **Woojung Song**, Dept. of Information System, opusdeisong@gmail.com
+- **Kitae Kwon**, Dept. of Information System, jrinonamu@gmail.com
+- **Jina Kim**, Dept. of Information System, drjina02@gmail.com
+- **Dakyum Yeo**, Dept. of Information System, yeodakyum@gmail.com
