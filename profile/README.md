@@ -2,8 +2,6 @@
 
 ## Introduction
 
----
-
 최근 글로벌 스마트 홈 시장은 크게 확장되어 2023년까지 1,410억 달러를 넘어설 것으로 예상됩니다. 그러나 다양한 기업의 디바이스를 제어하기 위해서는 수많은 애플리케이션이 필요합니다. 또한 상당수의 디바이스에는 IoT 기능이 장착되지 않아 이들의 통합이 더욱 복잡합니다.
 
 이러한 스마트 홈 생태계의 격차를 해소하기 위해 고안된 LG Cover를 소개합니다. LG Cover는 모든 LG 기기에 특화된 통합을 제공하고, Matter API을 통해 구형 기기를 활성화하며, 다양한 브랜드에서 일관된 사용자 경험을 제공합니다.
@@ -13,8 +11,6 @@ LG Cover는 원활한 통합을 위해 ThinQ 앱과 Matter API 장치에 허브 
 이 시스템의 핵심 구성 요소인 허브는 날짜, 시간, 온도, 습도 등 핵심 정보를 표시하며, 사용자는 기기의 , 브랜드에 상관없이 통합된 스마트 홈 생태계의 편리함을 경험할 수 있습니다.
 
 ## Members
-
----
 
 - **Kim Jina**, Dept. of Information System, drjina02@gmail.com
 - **Kwon Kitae**, Dept. of Information System, jrinonamu@gmail.com
