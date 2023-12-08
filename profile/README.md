@@ -15,3 +15,7 @@ The global smart home market, expected to exceed $164 billion by 2028, is experi
 |Kwon Kitae|Product Designer|
 |Kim Jina|Software Developer|
 |Yeo Dakyum|Development Manager|
+
+# Links
+
+Youtube: (https://youtu.be/PlBg7rpCy0U?si=6gL3I8g0FfG0XVTb)
