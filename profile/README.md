@@ -10,30 +10,40 @@ The global smart home market, expected to exceed $164 billion by 2028, is experi
 ## Architecture Design
 ![Untitled](https://i.imgur.com/gGjZ7g2.png)
 
-## Members
-
-🧑‍💻 **권기태** (Kwon Kitae)
-Sophomore in Dept. of Information System, Hanyang University
-jrinonamu@gmail.com
-**Research**, **Document**
-
-
-👩‍💻 **김진아** (Kim Jina)
-Sophomore in Dept. of Information System, Hanyang University
-drjina02@gmail.com
-**Front-End**, **Design**
-
-
-👨‍💼 **송우정** (Song Woojung)
-Sophomore in Dept. of Information System, Hanyang University
-opusdeisong@gmail.com
-**Design, PM**
-
-
-👨‍💼 **여다겸** (Yeo Dakyum)
-Sophomore in Dept. of Information System, Hanyang University
-yeodakyum@gmail.com
-**Embedded, Hardware**
+<table>
+    <tr>
+        <th>🧑‍💻 <b>권기태</b> (Kwon Kitae)</th>
+        <th>👩‍💻 <b>김진아</b> (Kim Jina)</th>
+    </tr>
+    <tr>
+        <td>Sophomore in Dept. of Information System, Hanyang University</td>
+        <td>Sophomore in Dept. of Information System, Hanyang University</td>
+    </tr>
+    <tr>
+        <td>jrinonamu@gmail.com</td>
+        <td>drjina02@gmail.com</td>
+    </tr>
+    <tr>
+        <td><b>Research</b>, <b>Document</b></td>
+        <td><b>Front-End</b>, <b>Design</b></td>
+    </tr>
+    <tr>
+        <th>👨‍💼 <b>송우정</b> (Song Woojung)</th>
+        <th>👨‍💼 <b>여다겸</b> (Yeo Dakyum)</th>
+    </tr>
+    <tr>
+        <td>Sophomore in Dept. of Information System, Hanyang University</td>
+        <td>Sophomore in Dept. of Information System, Hanyang University</td>
+    </tr>
+    <tr>
+        <td>opusdeisong@gmail.com</td>
+        <td>yeodakyum@gmail.com</td>
+    </tr>
+    <tr>
+        <td><b>Design</b>, <b>PM</b></td>
+        <td><b>Embedded</b>, <b>Hardware</b></td>
+    </tr>
+</table>
 
 
 
