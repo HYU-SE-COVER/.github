@@ -9,7 +9,7 @@
 ## Github Link
 
 ## Presentation Link
-### [Cover Documentation](http://naver.me/FWfDpohb)   
+### [Cover Documentation](https://api.cncscore.com/tmp_files/files/COVER%20Documnetation.pdf)   
 ### [Cover PowerPoint](http://example.com/yourpresentation.ppt)
 
 ## Introduction
