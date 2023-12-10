@@ -10,7 +10,13 @@
 ### [Cover PowerPoint](http://example.com/yourpresentation.ppt)
 
 ## Introduction
-The global smart home market, expected to exceed $164 billion by 2028, is experiencing significant growth, driven by demands for convenience, security, and energy efficiency, and witnessing advanced device integrations. However, the proliferation of various smart devices from multiple brands has fragmented user experiences, creating a complex web of control applications. This fragmentation, evident in platforms like Apple Home and Google Home App, and the lack of IoT integration in numerous devices, poses challenges. To bridge this gap, the LG Cover is introduced, offering a unified solution that ensures a consistent user experience across different brands and ages of devices. LG Cover supports the integration of Matter and ThinQ devices, revitalizing older IR technology devices, and enables communication with non-Matter-supporting devices through the Matter API, providing a seamless, comprehensive smart home ecosystem.
+**LG COVER** is a hardware built on **ESP32-S3**, seamlessly bridging Matter and non-Matter devices, offering an unparalleled level of convenience in smart home technology. IoT devices from **various companies and protocols** can be integrated through LG COVER for centralized management.
+
+LG COVER supports registration of **LG ThinQ**, **Matter**, and **IR** devices. LG COVER features an intuitive main page interface for monitoring and managing all connected devices, irrespective of brand or protocol. Users can easily control device functions like power, temperature, and modes with simple touch controls.
+
+The integration of QR code technology simplifies the connection process for LG ThinQ and Matter devices, streamlining the setup procedure. For depreciated IR devices, LG COVER adopts a unique approach. It captures signals from the device's remote control, identifies a compatible signal pattern, and then replicates it for user-friendly device integration and control.
+
+Additionally, linking LG COVER with home assistants like **Apple Home** expands its functionality, enabling all connected devices to be controlled via a single, unified assistant platform.
 
 ## Architecture Design
 ![Overall Architecture](https://i.imgur.com/gGjZ7g2.png)
