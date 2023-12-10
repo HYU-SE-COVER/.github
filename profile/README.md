@@ -10,6 +10,7 @@ The global smart home market, expected to exceed $164 billion by 2028, is experi
 ## Architecture Design
 ![Untitled](https://i.imgur.com/gGjZ7g2.png)
 
+## Members
 <table>
     <tr>
         <th>🧑‍💻 <b>권기태</b> (Kwon Kitae)</th>
