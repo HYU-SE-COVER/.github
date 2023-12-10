@@ -13,36 +13,29 @@ The global smart home market, expected to exceed $164 billion by 2028, is experi
 ## Members
 
 🧑‍💻 **권기태** (Kwon Kitae)
-
 Sophomore in Dept. of Information System, Hanyang University
-
 jrinonamu@gmail.com
-
 **Research**, **Document**
 
+
 👩‍💻 **김진아** (Kim Jina)
-
 Sophomore in Dept. of Information System, Hanyang University
-
 drjina02@gmail.com
-
 **Front-End**, **Design**
 
+
 👨‍💼 **송우정** (Song Woojung)
-
 Sophomore in Dept. of Information System, Hanyang University
-
 opusdeisong@gmail.com
-
 **Design, PM**
 
+
 👨‍💼 **여다겸** (Yeo Dakyum)
-
 Sophomore in Dept. of Information System, Hanyang University
-
 yeodakyum@gmail.com
-
 **Embedded, Hardware**
+
+
 
 # Links
 
