@@ -2,6 +2,9 @@
 > **From Past to Present:**
 > 
 > Harnessing Matter to Integrate Legacy Devices into the Next-Gen Smart Home Ecosystem
+## Main Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/PlBg7rpCy0U/maxresdefault.jpg)](https://youtu.be/PlBg7rpCy0U)
 
 ## Introduction
 
