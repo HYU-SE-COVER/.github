@@ -26,22 +26,6 @@ Sophomore in Dept. of Information System, Hanyang University
 
 drjina02@gmail.com
 
-**Full-Stack**
-
-🤦‍♂️ **조세연** (Cho Seyeon)
-
-Sophomore in Dept. of Information System, Hanyang University
-
-seyeon110@gmail.com
-
-**Back-End(API)**, **Research**
-
-🧑‍🌾 **김동현** (Kim Donghyun)
-
-Sophomore in Dept. of Information System, Hanyang University
-
-lmkn5342@gmail.com
-
 **Front-End**, **Design**
 
 👨‍💼 **송우정** (Song Woojung)
