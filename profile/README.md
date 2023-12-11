@@ -7,7 +7,8 @@
 ## Links
 ### [Cover BlogLink](https://starlike-record.notion.site/COVER-f43f4e78be8c49c7958ad208e229addd?pvs=4)   
 ### [Cover Documentation](https://api.cncscore.com/tmp_files/files/COVER%20Documnetation.pdf)   
-### [Cover PowerPoint](https://api.cncscore.com/tmp_files/files/Cover_ppt.pdf)
+### [Cover PowerPoint PDF](https://api.cncscore.com/tmp_files/files/Cover_ppt.pdf)
+### [Cover PowerPoint PPT](https://api.cncscore.com/tmp_files/files/Cover_ppt.pptx)
 
 ## Introduction
 **LG COVER** is a hardware built on **ESP32-S3**, seamlessly bridging Matter and non-Matter devices, offering an unparalleled level of convenience in smart home technology. IoT devices from **various companies and protocols** can be integrated through LG COVER for centralized management.
