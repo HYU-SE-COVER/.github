@@ -3,7 +3,7 @@
 > 
 > Harnessing Matter to Integrate Legacy Devices into the Next-Gen Smart Home Ecosystem
 ## Main Demo Video
-[![Watch the video](https://i.imgur.com/aLLjjvv.png)](https://youtu.be/PlBg7rpCy0U)
+[![Watch the video](https://img.youtube.com/vi/Vj_l8mhAHpY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Vj_l8mhAHpY)
 ## Links
 ### [Cover BlogLink](https://starlike-record.notion.site/COVER-f43f4e78be8c49c7958ad208e229addd?pvs=4)   
 ### [Cover Documentation](https://api.cncscore.com/tmp_files/files/COVER%20Documnetation.pdf)   
