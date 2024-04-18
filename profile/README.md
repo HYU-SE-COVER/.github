@@ -1,4 +1,5 @@
 # LG-COVER
+## **Excellence Award(2nd Place), LG Electronics Hanyang University IC-PBL Project**
 > **From Past to Present:**
 > 
 > Harnessing Matter to Integrate Legacy Devices into the Next-Gen Smart Home Ecosystem
